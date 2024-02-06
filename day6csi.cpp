@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int n;
-    int num_list[n];    // let n = 4
+    int num_list[n];    // let n = 5
     cout<<"Enter number of terms: ";
     cin >> n;
     for (int i=0; i<n; i++)
